@@ -1,0 +1,33 @@
+body{
+    /*font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
+    background-color:darkgray;
+    font-family: 'Akaya Kanadaka', cursive;
+    
+
+}
+div{
+    border: 1px solid black;    
+    margin-right: 2%;
+    display: inline-block; 
+    
+    
+    }
+    .peppermint{
+    background-image: url("cookies/peppermint.jpg") ;
+    background-size: cover;
+    height: 30%;
+    width: 30%;
+   
+}
+.raspberry{
+    background-image: url("cookies/raspberry.jpg");
+    background-size: cover;
+    height: 30%;
+    width: 30%;
+}
+.redvelvet{
+    background-image: url("cookies/redvelvet.jpg");
+    background-size:cover;
+    height: 30%;
+    width: 30%;
+}

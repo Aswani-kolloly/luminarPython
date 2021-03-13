@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 14px;
+}
+h1,h2,h3,h4,h5,h6{
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 1.8;
+}
+.top-header{
+color: white;
+background-image: linear-gradient(to right ,#360033, #0b8793);
+height: 165px;
+
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header img{   
+    
+    margin-top:30%;
+}
+ .border-line{
+    
+    border: 1px solid black;
+   
+}
+/*From Sajay N J to Everyone:  08:30 AM
+bd-placeholder-img rounded-circle
+From Me to Everyone:  08:43 AM
+https://aswani-kolloly.github.io/My_resume/
+*/

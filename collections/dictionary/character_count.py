@@ -7,4 +7,8 @@ for item in str:
         dict[item]+=1
 
 print("Character count : ",dict)
-print(min(dict))
+#for k,v in dict.items():
+result=sorted(dict,key=dict.get,reverse=True)
+print(result[0])
+
+

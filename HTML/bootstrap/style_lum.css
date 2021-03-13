@@ -1,0 +1,178 @@
+body{
+    background-color:white;
+}
+.top_div{
+    width: 100%;
+    background-color: #5E068A;   
+    
+}
+.top_div_info{
+    color: white;
+    font-size: 13px;
+}
+.intro h3{
+    font-size: 32px;
+    color: #5E068A;
+   }
+.intro{
+       color: #414141;
+       font-size: 15px;
+       line-height: 28px;
+   }
+   .learn-more{
+    background-color:#5E068A ;
+    color: white;
+    text-decoration: none;
+    border-radius: 40px;
+    text-transform: uppercase;
+   font-weight: 600;
+    margin-top: 21px;
+
+
+   }
+   .learn-more:hover{
+    border: 2px solid #5E068A;
+    background-color: white; 
+    color: #5E068A;
+   }
+.view-courses{
+  border: 2px solid #5E068A;
+  border-radius: 40px;
+  text-decoration: none;
+  color: #5E068A;
+}
+.view-courses:hover{
+    background-color:#5E068A ;
+    color: white;
+}
+.placements{
+    background-color:#5E068A ;
+    color: white;
+    font-size: 30px;
+    font-weight: 400px;
+
+}
+.section-courses{
+    background-color:  #f0f2f5;
+}
+.section-courses .heading{
+    font-size: 32px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #5E068A;
+    font-weight: 500;
+}
+.cs-item .card{
+background-color: white;
+border: 0;
+
+}
+.cs-item .card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cs-item h3{
+    font-size: 18px;
+    margin-top: 20px;
+    color:#5E068A; ;
+}
+.cs-item p{
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 15px;
+    color: #414141;
+}
+.section-courses button{
+    text-transform: uppercase;
+    color: white;
+    background-color:#5E068A; 
+    margin-bottom: 30px;
+    border: 0px;
+
+}
+.cs-ML{
+    background-color: white;
+}
+div.cs-ML:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+
+}
+.cs-ML p{
+    line-height: 1.8;
+    color: #414141;
+}
+.cs-ML h3{
+    text-transform: uppercase;
+    color: #5E068A;
+    font-size: 20px;
+}
+.cs-ML img{    
+    height: 350px;   
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.gallery-head{
+    color:#5E068A;
+    text-align: center;
+    
+}
+.gal-content{
+    text-align: center;
+    line-height: 1.8;
+    font-size: 14px;
+    color: #414141;
+}
+.row .img-flex{
+    align-items: center;
+    display: flex;  
+    justify-content: center;
+   
+
+}
+.img-flex img{
+    height: 180px;
+    width: 220px;
+}
+.row .footer-start{
+   align-items: center;
+   display: flex;  
+   justify-content: center;
+   
+    
+}
+.footer{
+    background-color: #1D0429;
+    color: white;
+    
+}
+.footer h4{
+    text-transform: uppercase;
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+.footer ul{
+    list-style: none;
+    color: white;
+}
+.copyright{
+    background-color: white;
+}
+.navbar ul{
+    list-style: none;   
+    
+}
+.navbar li a {    
+    color: #252627;
+    text-transform: uppercase;
+    font-size: 14x;
+    font-weight: 500;   
+    text-decoration: none;
+    
+    }
+.navbar li a:hover{
+        color: #5E068A;
+    }

@@ -1,0 +1,32 @@
+body{
+    
+    background-image: url("night_explorer_4k.jpg");
+}
+h1{
+    color:purple;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.first{
+    background-color: rosybrown;
+    width: 30%;
+    border: 1px solid white;
+    
+}
+#samsung{
+    background-color: seashell;
+    width: 30%;
+    border: 1px solid white;
+
+}
+#mi{
+    background-color: silver;
+    width: 30%;
+    border: 1px solid white;
+
+}
+div{
+    text-align: center;
+}
